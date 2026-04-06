@@ -225,7 +225,6 @@ How to Test the Output of the Lab
 
 ===================================================================
 */
-
 import { useState } from "react";
 import "./index.css";
 
@@ -249,9 +248,7 @@ function App() {
           {quote ? (
             <p className="quote">{quote}</p>
           ) : (
-            <p className="placeholder">
-              Click the button to get a quote
-            </p>
+            <p className="placeholder">Click the button to get a quote</p>
           )}
         </div>
       </div>
