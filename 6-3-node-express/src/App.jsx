@@ -221,7 +221,7 @@ How to Test the Output of the Lab
    - Keep the backend terminal open.
    - Refresh the browser or visit the routes again.
    Expected:
-   - You should see request logs in the backend terminal for each request.
+   - You should q see request logs in the backend terminal for each request.
 
 ===================================================================
 */
